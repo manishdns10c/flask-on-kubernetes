@@ -1,3 +1,3 @@
 # flask-on-kubernetes
 
-Run minikube tunnel after kubectl apply
+Run minikube tunnel command after kubectl apply
